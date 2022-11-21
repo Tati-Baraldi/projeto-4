@@ -4,7 +4,6 @@ body{
  align-items: center;
  height: 90vh;  
  flex-direction: column; 
- background-color: black;
 }
 
 #container{
