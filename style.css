@@ -1,0 +1,30 @@
+body{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 90vh;  
+ flex-direction: column; 
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 60%;
+    justify-content: center;
+    display: flex;
+    width: 50vh;
+}
+h3{
+    font-size: 4vh;
+    justify-content: center;
+    align-items: center;
+       
+}
+
+button{
+    width: 30px;
+    font-weight: bold;
+}
